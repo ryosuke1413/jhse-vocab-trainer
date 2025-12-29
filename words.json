@@ -7,1502 +7,1502 @@
         {
           "en": "zero",
           "ja": "ゼロ",
-          "ex": "I have a ( )."
+          "ex": "The answer is ( )."
         },
         {
           "en": "one",
           "ja": "1",
-          "ex": "I have an ( )."
+          "ex": "I got ( ) points on the quiz."
         },
         {
           "en": "two",
           "ja": "2",
-          "ex": "I have a ( )."
+          "ex": "There are ( ) students in my class today."
         },
         {
           "en": "three",
           "ja": "3",
-          "ex": "I have a ( )."
+          "ex": "I have ( ) minutes before class."
         },
         {
           "en": "four",
           "ja": "4",
-          "ex": "I have a ( )."
+          "ex": "The answer is ( )."
         },
         {
           "en": "five",
           "ja": "5",
-          "ex": "I have a ( )."
+          "ex": "I got ( ) points on the quiz."
         },
         {
           "en": "six",
           "ja": "6",
-          "ex": "I have a ( )."
+          "ex": "There are ( ) students in my class today."
         },
         {
           "en": "seven",
           "ja": "7",
-          "ex": "I have a ( )."
+          "ex": "I have ( ) minutes before class."
         },
         {
           "en": "eight",
           "ja": "8",
-          "ex": "I have an ( )."
+          "ex": "The answer is ( )."
         },
         {
           "en": "nine",
           "ja": "9",
-          "ex": "I have a ( )."
+          "ex": "I got ( ) points on the quiz."
         },
         {
           "en": "ten",
           "ja": "10",
-          "ex": "I have a ( )."
+          "ex": "There are ( ) students in my class today."
         },
         {
           "en": "eleven",
           "ja": "11",
-          "ex": "I have an ( )."
+          "ex": "I have ( ) minutes before class."
         },
         {
           "en": "twelve",
           "ja": "12",
-          "ex": "I have a ( )."
+          "ex": "The answer is ( )."
         },
         {
           "en": "thirteen",
           "ja": "13",
-          "ex": "I have a ( )."
+          "ex": "I got ( ) points on the quiz."
         },
         {
           "en": "fourteen",
           "ja": "14",
-          "ex": "I have a ( )."
+          "ex": "There are ( ) students in my class today."
         },
         {
           "en": "fifteen",
           "ja": "15",
-          "ex": "I have a ( )."
+          "ex": "I have ( ) minutes before class."
         },
         {
           "en": "sixteen",
           "ja": "16",
-          "ex": "I have a ( )."
+          "ex": "The answer is ( )."
         },
         {
           "en": "seventeen",
           "ja": "17",
-          "ex": "I have a ( )."
+          "ex": "I got ( ) points on the quiz."
         },
         {
           "en": "eighteen",
           "ja": "18",
-          "ex": "I have an ( )."
+          "ex": "There are ( ) students in my class today."
         },
         {
           "en": "nineteen",
           "ja": "19",
-          "ex": "I have a ( )."
+          "ex": "I have ( ) minutes before class."
         },
         {
           "en": "twenty",
           "ja": "20",
-          "ex": "I have a ( )."
+          "ex": "The answer is ( )."
         },
         {
           "en": "thirty",
           "ja": "30",
-          "ex": "I have a ( )."
+          "ex": "I got ( ) points on the quiz."
         },
         {
           "en": "forty",
           "ja": "40",
-          "ex": "I have a ( )."
+          "ex": "There are ( ) students in my class today."
         },
         {
           "en": "fifty",
           "ja": "50",
-          "ex": "I have a ( )."
+          "ex": "I have ( ) minutes before class."
         },
         {
           "en": "sixty",
           "ja": "60",
-          "ex": "I have a ( )."
+          "ex": "The answer is ( )."
         },
         {
           "en": "seventy",
           "ja": "70",
-          "ex": "I have a ( )."
+          "ex": "I got ( ) points on the quiz."
         },
         {
           "en": "eighty",
           "ja": "80",
-          "ex": "I have an ( )."
+          "ex": "There are ( ) students in my class today."
         },
         {
           "en": "ninety",
           "ja": "90",
-          "ex": "I have a ( )."
+          "ex": "I have ( ) minutes before class."
         },
         {
           "en": "hundred",
           "ja": "100",
-          "ex": "I have a ( )."
+          "ex": "The answer is ( )."
         },
         {
           "en": "Monday",
           "ja": "月曜日",
-          "ex": "I have a ( )."
+          "ex": "I play soccer every ( )."
         },
         {
           "en": "Tuesday",
           "ja": "火曜日",
-          "ex": "I have a ( )."
+          "ex": "Let's meet this ( )."
         },
         {
           "en": "Wednesday",
           "ja": "水曜日",
-          "ex": "I have a ( )."
+          "ex": "I go to the library on ( )."
         },
         {
           "en": "Thursday",
           "ja": "木曜日",
-          "ex": "I have a ( )."
+          "ex": "We have English class on ( )."
         },
         {
           "en": "Friday",
           "ja": "金曜日",
-          "ex": "I have a ( )."
+          "ex": "I play soccer every ( )."
         },
         {
           "en": "Saturday",
           "ja": "土曜日",
-          "ex": "I have a ( )."
+          "ex": "Let's meet this ( )."
         },
         {
           "en": "Sunday",
           "ja": "日曜日",
-          "ex": "I have a ( )."
+          "ex": "I go to the library on ( )."
         },
         {
           "en": "January",
           "ja": "1月",
-          "ex": "I have a ( )."
+          "ex": "My birthday is in ( )."
         },
         {
           "en": "February",
           "ja": "2月",
-          "ex": "I have a ( )."
+          "ex": "School starts in ( ) in Japan."
         },
         {
           "en": "March",
           "ja": "3月",
-          "ex": "I have a ( )."
+          "ex": "We took this photo in ( )."
         },
         {
           "en": "April",
           "ja": "4月",
-          "ex": "I have an ( )."
+          "ex": "It is cold in ( ) in many places."
         },
         {
           "en": "May",
           "ja": "5月",
-          "ex": "I have a ( )."
+          "ex": "My birthday is in ( )."
         },
         {
           "en": "June",
           "ja": "6月",
-          "ex": "I have a ( )."
+          "ex": "School starts in ( ) in Japan."
         },
         {
           "en": "July",
           "ja": "7月",
-          "ex": "I have a ( )."
+          "ex": "We took this photo in ( )."
         },
         {
           "en": "August",
           "ja": "8月",
-          "ex": "I have an ( )."
+          "ex": "It is cold in ( ) in many places."
         },
         {
           "en": "September",
           "ja": "9月",
-          "ex": "I have a ( )."
+          "ex": "My birthday is in ( )."
         },
         {
           "en": "October",
           "ja": "10月",
-          "ex": "I have an ( )."
+          "ex": "School starts in ( ) in Japan."
         },
         {
           "en": "November",
           "ja": "11月",
-          "ex": "I have a ( )."
+          "ex": "We took this photo in ( )."
         },
         {
           "en": "December",
           "ja": "12月",
-          "ex": "I have a ( )."
+          "ex": "It is cold in ( ) in many places."
         },
         {
           "en": "red",
           "ja": "赤",
-          "ex": "I have a ( )."
+          "ex": "My favorite color is ( )."
         },
         {
           "en": "blue",
           "ja": "青",
-          "ex": "I have a ( )."
+          "ex": "I bought a ( ) notebook today."
         },
         {
           "en": "green",
           "ja": "緑",
-          "ex": "I have a ( )."
+          "ex": "The sky looks ( ) this morning."
         },
         {
           "en": "yellow",
           "ja": "黄色",
-          "ex": "I have a ( )."
+          "ex": "She wore a ( ) dress at the festival."
         },
         {
           "en": "black",
           "ja": "黒",
-          "ex": "I have a ( )."
+          "ex": "My favorite color is ( )."
         },
         {
           "en": "white",
           "ja": "白",
-          "ex": "I have a ( )."
+          "ex": "I bought a ( ) notebook today."
         },
         {
           "en": "orange",
           "ja": "オレンジ色",
-          "ex": "I have an ( )."
+          "ex": "The sky looks ( ) this morning."
         },
         {
           "en": "pink",
           "ja": "ピンク",
-          "ex": "I have a ( )."
+          "ex": "She wore a ( ) dress at the festival."
         },
         {
           "en": "brown",
           "ja": "茶色",
-          "ex": "I have a ( )."
+          "ex": "My favorite color is ( )."
         },
         {
           "en": "purple",
           "ja": "紫",
-          "ex": "I have a ( )."
+          "ex": "I bought a ( ) notebook today."
         },
         {
           "en": "gray",
           "ja": "灰色",
-          "ex": "I have a ( )."
+          "ex": "The sky looks ( ) this morning."
         },
         {
           "en": "gold",
           "ja": "金色",
-          "ex": "I have a ( )."
+          "ex": "She wore a ( ) dress at the festival."
         },
         {
           "en": "silver",
           "ja": "銀色",
-          "ex": "I have a ( )."
+          "ex": "My favorite color is ( )."
         },
         {
           "en": "left",
           "ja": "左",
-          "ex": "I have a ( )."
+          "ex": "Look ( ) and you will see the sign."
         },
         {
           "en": "right",
           "ja": "右",
-          "ex": "I have a ( )."
+          "ex": "The station is ( ) of the park."
         },
         {
           "en": "up",
           "ja": "上",
-          "ex": "I have an ( )."
+          "ex": "The cat is ( ) the table."
         },
         {
           "en": "down",
           "ja": "下",
-          "ex": "I have a ( )."
+          "ex": "Turn ( ) at the next corner."
         },
         {
           "en": "north",
           "ja": "北",
-          "ex": "I have a ( )."
+          "ex": "Look ( ) and you will see the sign."
         },
         {
           "en": "south",
           "ja": "南",
-          "ex": "I have a ( )."
+          "ex": "The station is ( ) of the park."
         },
         {
           "en": "east",
           "ja": "東",
-          "ex": "I have an ( )."
+          "ex": "The cat is ( ) the table."
         },
         {
           "en": "west",
           "ja": "西",
-          "ex": "I have a ( )."
+          "ex": "Turn ( ) at the next corner."
         },
         {
           "en": "spring",
           "ja": "春",
-          "ex": "I have a ( )."
+          "ex": "( ) is my favorite season."
         },
         {
           "en": "summer",
           "ja": "夏",
-          "ex": "I have a ( )."
+          "ex": "We go hiking in ( )."
         },
         {
           "en": "autumn",
           "ja": "秋",
-          "ex": "I have an ( )."
+          "ex": "In ( ), the days get shorter."
         },
         {
           "en": "fall",
           "ja": "秋",
-          "ex": "I have a ( )."
+          "ex": "I like ( ) because the weather is nice."
         },
         {
           "en": "winter",
           "ja": "冬",
-          "ex": "I have a ( )."
+          "ex": "( ) is my favorite season."
         },
         {
           "en": "book",
           "ja": "本",
-          "ex": "I have a ( )."
+          "ex": "I read a ( ) before bed."
         },
         {
           "en": "pen",
           "ja": "ペン",
-          "ex": "I have a ( )."
+          "ex": "Can I borrow your ( )?"
         },
         {
           "en": "pencil",
           "ja": "鉛筆",
-          "ex": "I have a ( )."
+          "ex": "I need a ( ) for math class."
         },
         {
           "en": "eraser",
           "ja": "消しゴム",
-          "ex": "I have an ( )."
+          "ex": "I forgot my ( ) today."
         },
         {
           "en": "notebook",
           "ja": "ノート",
-          "ex": "I have a ( )."
+          "ex": "I wrote it in my ( )."
         },
         {
           "en": "desk",
           "ja": "机",
-          "ex": "I have a ( )."
+          "ex": "My ( ) is near the window."
         },
         {
           "en": "chair",
           "ja": "いす",
-          "ex": "I have a ( )."
+          "ex": "Please sit on this ( )."
         },
         {
           "en": "school",
           "ja": "学校",
-          "ex": "I have a ( )."
+          "ex": "I go to ( ) every day."
         },
         {
           "en": "class",
           "ja": "授業／クラス",
-          "ex": "I have a ( )."
+          "ex": "Our ( ) starts at nine."
         },
         {
           "en": "student",
           "ja": "生徒",
-          "ex": "I have a ( )."
+          "ex": "Every ( ) has a school ID."
         },
         {
           "en": "teacher",
           "ja": "先生",
-          "ex": "I have a ( )."
+          "ex": "My ( ) teaches English."
         },
         {
           "en": "friend",
           "ja": "友だち",
-          "ex": "I have a ( )."
+          "ex": "I talked with my ( ) after school."
         },
         {
           "en": "family",
           "ja": "家族",
-          "ex": "I have a ( )."
+          "ex": "My ( ) eats dinner together."
         },
         {
           "en": "father",
           "ja": "父",
-          "ex": "I have a ( )."
+          "ex": "The ( ) is waiting over there."
         },
         {
           "en": "mother",
           "ja": "母",
-          "ex": "I have a ( )."
+          "ex": "My ( ) is very kind."
         },
         {
           "en": "brother",
           "ja": "兄／弟",
-          "ex": "I have a ( )."
+          "ex": "I met a new ( ) today."
         },
         {
           "en": "sister",
           "ja": "姉／妹",
-          "ex": "I have a ( )."
+          "ex": "That ( ) helped me a lot."
         },
         {
           "en": "home",
           "ja": "家",
-          "ex": "I have a ( )."
+          "ex": "I go ( ) after club activities."
         },
         {
           "en": "room",
           "ja": "部屋",
-          "ex": "I have a ( )."
+          "ex": "My ( ) is small but clean."
         },
         {
           "en": "door",
           "ja": "ドア",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "window",
           "ja": "窓",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "bag",
           "ja": "かばん",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "map",
           "ja": "地図",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "clock",
           "ja": "時計",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "watch",
           "ja": "腕時計",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "phone",
           "ja": "電話",
-          "ex": "I have a ( )."
+          "ex": "I left my ( ) at home."
         },
         {
           "en": "computer",
           "ja": "コンピュータ",
-          "ex": "I have a ( )."
+          "ex": "I use a ( ) for my homework."
         },
         {
           "en": "TV",
           "ja": "テレビ",
-          "ex": "I have a ( )."
+          "ex": "We watch ( ) after dinner."
         },
         {
           "en": "radio",
           "ja": "ラジオ",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "music",
           "ja": "音楽",
-          "ex": "I have a ( )."
+          "ex": "I listen to ( ) every day."
         },
         {
           "en": "sport",
           "ja": "スポーツ",
-          "ex": "I have a ( )."
+          "ex": "My favorite ( ) is soccer."
         },
         {
           "en": "game",
           "ja": "ゲーム",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "soccer",
           "ja": "サッカー",
-          "ex": "I have a ( )."
+          "ex": "I play ( ) on weekends."
         },
         {
           "en": "baseball",
           "ja": "野球",
-          "ex": "I have a ( )."
+          "ex": "My brother likes ( )."
         },
         {
           "en": "tennis",
           "ja": "テニス",
-          "ex": "I have a ( )."
+          "ex": "We practice ( ) after school."
         },
         {
           "en": "swim",
           "ja": "泳ぐ",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "run",
           "ja": "走る",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "walk",
           "ja": "歩く",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "eat",
           "ja": "食べる",
-          "ex": "I have an ( )."
+          "ex": "I ( ) breakfast at seven."
         },
         {
           "en": "drink",
           "ja": "飲む",
-          "ex": "I have a ( )."
+          "ex": "I ( ) water after practice."
         },
         {
           "en": "sleep",
           "ja": "眠る",
-          "ex": "I have a ( )."
+          "ex": "I ( ) for eight hours."
         },
         {
           "en": "get",
           "ja": "得る／手に入れる",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "give",
           "ja": "与える",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "take",
           "ja": "取る／連れて行く",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "go",
           "ja": "行く",
-          "ex": "I have a ( )."
+          "ex": "I ( ) to school by bus."
         },
         {
           "en": "come",
           "ja": "来る",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) here."
         },
         {
           "en": "see",
           "ja": "見る",
-          "ex": "I have a ( )."
+          "ex": "I ( ) my friends at the station."
         },
         {
           "en": "look",
           "ja": "見る（意識して）",
-          "ex": "I have a ( )."
+          "ex": "( ) at the blackboard, please."
         },
         {
           "en": "listen",
           "ja": "聞く",
-          "ex": "I have a ( )."
+          "ex": "I ( ) to music on the train."
         },
         {
           "en": "hear",
           "ja": "聞こえる",
-          "ex": "I have a ( )."
+          "ex": "Can you ( ) me?"
         },
         {
           "en": "speak",
           "ja": "話す",
-          "ex": "I have a ( )."
+          "ex": "I can ( ) English a little."
         },
         {
           "en": "say",
           "ja": "言う",
-          "ex": "I have a ( )."
+          "ex": "Don't ( ) that."
         },
         {
           "en": "tell",
           "ja": "伝える",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) me your name."
         },
         {
           "en": "read",
           "ja": "読む",
-          "ex": "I have a ( )."
+          "ex": "I ( ) English books sometimes."
         },
         {
           "en": "write",
           "ja": "書く",
-          "ex": "I have a ( )."
+          "ex": "I ( ) in my notebook."
         },
         {
           "en": "open",
           "ja": "開ける",
-          "ex": "I have an ( )."
+          "ex": "Please ( ) the window."
         },
         {
           "en": "close",
           "ja": "閉める",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door."
         },
         {
           "en": "make",
           "ja": "作る",
-          "ex": "I have a ( )."
+          "ex": "Let's ( ) a cake together."
         },
         {
           "en": "use",
           "ja": "使う",
-          "ex": "I have an ( )."
+          "ex": "May I ( ) your phone?"
         },
         {
           "en": "help",
           "ja": "助ける",
-          "ex": "I have a ( )."
+          "ex": "Can you ( ) me with this?"
         },
         {
           "en": "study",
           "ja": "勉強する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) English every day."
         },
         {
           "en": "learn",
           "ja": "学ぶ",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "teach",
           "ja": "教える",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "play",
           "ja": "遊ぶ／（スポーツを）する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) games after homework."
         },
         {
           "en": "like",
           "ja": "好き",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "love",
           "ja": "大好き",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "want",
           "ja": "〜したい",
-          "ex": "This is ( )."
+          "ex": "I ( ) to be a teacher."
         },
         {
           "en": "need",
           "ja": "必要とする",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) some time to think."
         },
         {
           "en": "good",
           "ja": "良い",
-          "ex": "This is ( )."
+          "ex": "This cake tastes ( )."
         },
         {
           "en": "bad",
           "ja": "悪い",
-          "ex": "This is ( )."
+          "ex": "I feel ( ) today."
         },
         {
           "en": "big",
           "ja": "大きい",
-          "ex": "This is ( )."
+          "ex": "This room is ( )."
         },
         {
           "en": "small",
           "ja": "小さい",
-          "ex": "This is ( )."
+          "ex": "My bag is ( ) but light."
         },
         {
           "en": "new",
           "ja": "新しい",
-          "ex": "This is ( )."
+          "ex": "I bought a ( ) bike."
         },
         {
           "en": "old",
           "ja": "古い／年老いた",
-          "ex": "I have an ( )."
+          "ex": "This book is very ( )."
         },
         {
           "en": "hot",
           "ja": "暑い／熱い",
-          "ex": "This is ( )."
+          "ex": "It is ( ) today."
         },
         {
           "en": "cold",
           "ja": "寒い／冷たい",
-          "ex": "This is ( )."
+          "ex": "The water is ( )."
         },
         {
           "en": "warm",
           "ja": "暖かい",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "cool",
           "ja": "涼しい",
-          "ex": "This is ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "happy",
           "ja": "うれしい",
-          "ex": "This is ( )."
+          "ex": "I am ( ) to see you."
         },
         {
           "en": "sad",
           "ja": "悲しい",
-          "ex": "This is ( )."
+          "ex": "She looks ( ) today."
         },
         {
           "en": "fine",
           "ja": "元気だ／大丈夫",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "busy",
           "ja": "忙しい",
-          "ex": "This is ( )."
+          "ex": "I'm ( ) after school."
         },
         {
           "en": "easy",
           "ja": "簡単な",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "difficult",
           "ja": "難しい",
-          "ex": "This is ( )."
+          "ex": "This problem is ( )."
         },
         {
           "en": "morning",
           "ja": "朝",
-          "ex": "I have a ( )."
+          "ex": "I get up early in the ( )."
         },
         {
           "en": "afternoon",
           "ja": "午後",
-          "ex": "I have an ( )."
+          "ex": "I play tennis in the ( )."
         },
         {
           "en": "evening",
           "ja": "夕方",
-          "ex": "I have an ( )."
+          "ex": "I do my homework in the ( )."
         },
         {
           "en": "night",
           "ja": "夜",
-          "ex": "I have a ( )."
+          "ex": "I study at ( )."
         },
         {
           "en": "today",
           "ja": "今日",
-          "ex": "I have a ( )."
+          "ex": "I have a test ( )."
         },
         {
           "en": "tomorrow",
           "ja": "明日",
-          "ex": "I have a ( )."
+          "ex": "See you ( )."
         },
         {
           "en": "yesterday",
           "ja": "昨日",
-          "ex": "I have a ( )."
+          "ex": "I was busy ( )."
         },
         {
           "en": "now",
           "ja": "今",
-          "ex": "I have a ( )."
+          "ex": "She finished her work ( )."
         },
         {
           "en": "soon",
           "ja": "すぐに",
-          "ex": "I have a ( )."
+          "ex": "I ( ) go there with my family."
         },
         {
           "en": "later",
           "ja": "後で",
-          "ex": "I have a ( )."
+          "ex": "He ( ) forgets his homework."
         },
         {
           "en": "always",
           "ja": "いつも",
-          "ex": "I have an ( )."
+          "ex": "Please speak ( ) in English."
         },
         {
           "en": "often",
           "ja": "しばしば",
-          "ex": "I have an ( )."
+          "ex": "She finished her work ( )."
         },
         {
           "en": "sometimes",
           "ja": "ときどき",
-          "ex": "I have a ( )."
+          "ex": "I ( ) go there with my family."
         },
         {
           "en": "never",
           "ja": "決して〜ない",
-          "ex": "This is ( )."
+          "ex": "He ( ) forgets his homework."
         },
         {
           "en": "here",
           "ja": "ここ",
-          "ex": "I have a ( )."
+          "ex": "Come ( ), please."
         },
         {
           "en": "there",
           "ja": "そこ／あそこ",
-          "ex": "I have a ( )."
+          "ex": "My friend is over ( )."
         },
         {
           "en": "where",
           "ja": "どこ",
-          "ex": "I have a ( )."
+          "ex": "Do you know ( ) she went?"
         },
         {
           "en": "who",
           "ja": "誰",
-          "ex": "I have a ( )."
+          "ex": "( ) is coming to the party?"
         },
         {
           "en": "what",
           "ja": "何",
-          "ex": "I have a ( )."
+          "ex": "( ) do you want for lunch?"
         },
         {
           "en": "when",
           "ja": "いつ",
-          "ex": "I have a ( )."
+          "ex": "( ) is your birthday?"
         },
         {
           "en": "why",
           "ja": "なぜ",
-          "ex": "I have a ( )."
+          "ex": "( ) did you choose this book?"
         },
         {
           "en": "how",
           "ja": "どうやって",
-          "ex": "I have a ( )."
+          "ex": "( ) often do you play soccer?"
         },
         {
           "en": "and",
           "ja": "そして",
-          "ex": "I have an ( )."
+          "ex": "I like tea, ( ) I don't like coffee."
         },
         {
           "en": "but",
           "ja": "しかし",
-          "ex": "I have a ( )."
+          "ex": "I stayed home ( ) it was raining."
         },
         {
           "en": "or",
           "ja": "または",
-          "ex": "I have an ( )."
+          "ex": "I studied hard, ( ) I passed the test."
         },
         {
           "en": "because",
           "ja": "なぜなら",
-          "ex": "I have a ( )."
+          "ex": "He was tired; ( ), he kept running."
         },
         {
           "en": "so",
           "ja": "だから",
-          "ex": "I have a ( )."
+          "ex": "I like tea, ( ) I don't like coffee."
         },
         {
           "en": "please",
           "ja": "お願いします",
-          "ex": "I have a ( )."
+          "ex": "( ) help me."
         },
         {
           "en": "thank",
           "ja": "感謝する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) you for your help."
         },
         {
           "en": "sorry",
           "ja": "ごめんなさい",
-          "ex": "This is ( )."
+          "ex": "I'm ( ) for being late."
         },
         {
           "en": "apple",
           "ja": "りんご",
-          "ex": "I have an ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "banana",
           "ja": "バナナ",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "grape",
           "ja": "ぶどう",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "lemon",
           "ja": "レモン",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "rice",
           "ja": "ご飯",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "bread",
           "ja": "パン",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "milk",
           "ja": "牛乳",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "tea",
           "ja": "お茶",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "coffee",
           "ja": "コーヒー",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "water",
           "ja": "水",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "juice",
           "ja": "ジュース",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "cake",
           "ja": "ケーキ",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "egg",
           "ja": "卵",
-          "ex": "I have an ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "fish",
           "ja": "魚",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "meat",
           "ja": "肉",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "vegetable",
           "ja": "野菜",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "dog",
           "ja": "犬",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "cat",
           "ja": "猫",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "bird",
           "ja": "鳥",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "horse",
           "ja": "馬",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "cow",
           "ja": "牛",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "pig",
           "ja": "豚",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "rabbit",
           "ja": "うさぎ",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "park",
           "ja": "公園",
-          "ex": "I have a ( )."
+          "ex": "I went to the ( ) with my family."
         },
         {
           "en": "station",
           "ja": "駅",
-          "ex": "I have a ( )."
+          "ex": "Let's meet at the ( ) after school."
         },
         {
           "en": "hospital",
           "ja": "病院",
-          "ex": "I have a ( )."
+          "ex": "My father works near the ( )."
         },
         {
           "en": "library",
           "ja": "図書館",
-          "ex": "I have a ( )."
+          "ex": "The ( ) is crowded today."
         },
         {
           "en": "store",
           "ja": "店",
-          "ex": "I have a ( )."
+          "ex": "I went to the ( ) with my family."
         },
         {
           "en": "shop",
           "ja": "店",
-          "ex": "I have a ( )."
+          "ex": "Let's meet at the ( ) after school."
         },
         {
           "en": "bank",
           "ja": "銀行",
-          "ex": "I have a ( )."
+          "ex": "My father works near the ( )."
         },
         {
           "en": "bus",
           "ja": "バス",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "train",
           "ja": "電車",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "car",
           "ja": "車",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "bike",
           "ja": "自転車",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "plane",
           "ja": "飛行機",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "rain",
           "ja": "雨",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "snow",
           "ja": "雪",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "wind",
           "ja": "風",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "sun",
           "ja": "太陽",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "cloud",
           "ja": "雲",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "street",
           "ja": "通り",
-          "ex": "I have a ( )."
+          "ex": "Let's meet at the ( ) after school."
         },
         {
           "en": "road",
           "ja": "道路",
-          "ex": "I have a ( )."
+          "ex": "My father works near the ( )."
         },
         {
           "en": "city",
           "ja": "都市",
-          "ex": "I have a ( )."
+          "ex": "The ( ) is crowded today."
         },
         {
           "en": "town",
           "ja": "町",
-          "ex": "I have a ( )."
+          "ex": "I went to the ( ) with my family."
         },
         {
           "en": "village",
           "ja": "村",
-          "ex": "I have a ( )."
+          "ex": "Let's meet at the ( ) after school."
         },
         {
           "en": "country",
           "ja": "国",
-          "ex": "I have a ( )."
+          "ex": "My father works near the ( )."
         },
         {
           "en": "Japan",
           "ja": "日本",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "English",
           "ja": "英語",
-          "ex": "I have an ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "name",
           "ja": "名前",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "age",
           "ja": "年齢",
-          "ex": "I have an ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "boy",
           "ja": "男の子",
-          "ex": "I have a ( )."
+          "ex": "That ( ) helped me a lot."
         },
         {
           "en": "girl",
           "ja": "女の子",
-          "ex": "I have a ( )."
+          "ex": "The ( ) is waiting over there."
         },
         {
           "en": "man",
           "ja": "男性",
-          "ex": "I have a ( )."
+          "ex": "My ( ) is very kind."
         },
         {
           "en": "woman",
           "ja": "女性",
-          "ex": "I have a ( )."
+          "ex": "I met a new ( ) today."
         },
         {
           "en": "people",
           "ja": "人々",
-          "ex": "I have a ( )."
+          "ex": "That ( ) helped me a lot."
         },
         {
           "en": "hand",
           "ja": "手",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "head",
           "ja": "頭",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "eye",
           "ja": "目",
-          "ex": "I have an ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "ear",
           "ja": "耳",
-          "ex": "I have an ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "nose",
           "ja": "鼻",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "mouth",
           "ja": "口",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "hair",
           "ja": "髪",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "face",
           "ja": "顔",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "leg",
           "ja": "足",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "foot",
           "ja": "足",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "arm",
           "ja": "腕",
-          "ex": "I have an ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "finger",
           "ja": "指",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "body",
           "ja": "体",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "house",
           "ja": "家",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "kitchen",
           "ja": "台所",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "bathroom",
           "ja": "浴室／トイレ",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "bedroom",
           "ja": "寝室",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "garden",
           "ja": "庭",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "table",
           "ja": "テーブル",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "bed",
           "ja": "ベッド",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "box",
           "ja": "箱",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "picture",
           "ja": "絵／写真",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "letter",
           "ja": "手紙",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "day",
           "ja": "日",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "week",
           "ja": "週",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "month",
           "ja": "月",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "year",
           "ja": "年",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "time",
           "ja": "時間",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "minute",
           "ja": "分",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "hour",
           "ja": "時間（1時間）",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "start",
           "ja": "始める",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "finish",
           "ja": "終える",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "buy",
           "ja": "買う",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "sell",
           "ja": "売る",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "pay",
           "ja": "払う",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "meet",
           "ja": "会う",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "call",
           "ja": "電話する",
-          "ex": "I ( ) every day."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "wait",
           "ja": "待つ",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "sit",
           "ja": "座る",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "stand",
           "ja": "立つ",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "live",
           "ja": "住む",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "work",
           "ja": "働く",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "cook",
           "ja": "料理する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "clean",
           "ja": "掃除する",
-          "ex": "I ( ) every day."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "wash",
           "ja": "洗う",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "fast",
           "ja": "速い",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "slow",
           "ja": "遅い",
-          "ex": "This is ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "long",
           "ja": "長い",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "short",
           "ja": "短い",
-          "ex": "This is ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "early",
           "ja": "早い",
-          "ex": "This is ( )."
+          "ex": "Please speak ( ) in English."
         },
         {
           "en": "late",
           "ja": "遅い／遅刻した",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "beautiful",
           "ja": "美しい",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "nice",
           "ja": "素敵な",
-          "ex": "This is ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "kind",
           "ja": "親切な",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "strong",
           "ja": "強い",
-          "ex": "This is ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "weak",
           "ja": "弱い",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "young",
           "ja": "若い",
-          "ex": "This is ( )."
+          "ex": "He looks ( ) after practice."
         }
       ]
     },
@@ -1513,1502 +1513,1502 @@
         {
           "en": "practice",
           "ja": "練習する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "prepare",
           "ja": "準備する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "decide",
           "ja": "決める",
-          "ex": "I have a ( )."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "choose",
           "ja": "選ぶ",
-          "ex": "I have a ( )."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "enjoy",
           "ja": "楽しむ",
-          "ex": "I have an ( )."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "continue",
           "ja": "続ける",
-          "ex": "I have a ( )."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "change",
           "ja": "変える／変わる",
-          "ex": "I have a ( )."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "improve",
           "ja": "改善する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "join",
           "ja": "参加する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "share",
           "ja": "共有する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "travel",
           "ja": "旅行する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "visit",
           "ja": "訪れる",
-          "ex": "I have a ( )."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "stay",
           "ja": "滞在する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "move",
           "ja": "動く／引っ越す",
-          "ex": "I have a ( )."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "arrive",
           "ja": "到着する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "leave",
           "ja": "出発する／去る",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "return",
           "ja": "戻る",
-          "ex": "I have a ( )."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "plan",
           "ja": "計画する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "promise",
           "ja": "約束する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "try",
           "ja": "試す",
-          "ex": "I have a ( )."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "fail",
           "ja": "失敗する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "win",
           "ja": "勝つ",
-          "ex": "I have a ( )."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "lose",
           "ja": "負ける",
-          "ex": "I have a ( )."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "answer",
           "ja": "答える",
-          "ex": "I have an ( )."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "question",
           "ja": "質問",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "explain",
           "ja": "説明する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "mean",
           "ja": "意味する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "example",
           "ja": "例",
-          "ex": "I have an ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "difference",
           "ja": "違い",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "same",
           "ja": "同じ",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "important",
           "ja": "重要な",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "necessary",
           "ja": "必要な",
-          "ex": "This is ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "possible",
           "ja": "可能な",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "popular",
           "ja": "人気の",
-          "ex": "I have a ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "special",
           "ja": "特別な",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "famous",
           "ja": "有名な",
-          "ex": "This is ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "problem",
           "ja": "問題",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "idea",
           "ja": "考え",
-          "ex": "I have an ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "reason",
           "ja": "理由",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "result",
           "ja": "結果",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "experience",
           "ja": "経験",
-          "ex": "I have an ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "future",
           "ja": "未来",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "past",
           "ja": "過去",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "during",
           "ja": "〜の間",
-          "ex": "I have a ( )."
+          "ex": "He was tired; ( ), he kept running."
         },
         {
           "en": "before",
           "ja": "〜の前に",
-          "ex": "I have a ( )."
+          "ex": "I like tea, ( ) I don't like coffee."
         },
         {
           "en": "after",
           "ja": "〜の後で",
-          "ex": "I have an ( )."
+          "ex": "I stayed home ( ) it was raining."
         },
         {
           "en": "however",
           "ja": "しかしながら",
-          "ex": "I have a ( )."
+          "ex": "I studied hard, ( ) I passed the test."
         },
         {
           "en": "also",
           "ja": "また",
-          "ex": "I have an ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "maybe",
           "ja": "たぶん",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "together",
           "ja": "一緒に",
-          "ex": "I have a ( )."
+          "ex": "She finished her work ( )."
         },
         {
           "en": "alone",
           "ja": "ひとりで",
-          "ex": "I have an ( )."
+          "ex": "I ( ) go there with my family."
         },
         {
           "en": "each",
           "ja": "それぞれ",
-          "ex": "I have an ( )."
+          "ex": "He ( ) forgets his homework."
         },
         {
           "en": "another",
           "ja": "別の",
-          "ex": "I have an ( )."
+          "ex": "Please speak ( ) in English."
         },
         {
           "en": "every",
           "ja": "すべての／毎〜",
-          "ex": "I have an ( )."
+          "ex": "She finished her work ( )."
         },
         {
           "en": "both",
           "ja": "両方",
-          "ex": "I have a ( )."
+          "ex": "I ( ) go there with my family."
         },
         {
           "en": "either",
           "ja": "どちらか",
-          "ex": "I have an ( )."
+          "ex": "He ( ) forgets his homework."
         },
         {
           "en": "neither",
           "ja": "どちらも〜ない",
-          "ex": "This is ( )."
+          "ex": "Please speak ( ) in English."
         },
         {
           "en": "almost",
           "ja": "ほとんど",
-          "ex": "I have an ( )."
+          "ex": "She finished her work ( )."
         },
         {
           "en": "enough",
           "ja": "十分な",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "already",
           "ja": "すでに",
-          "ex": "I have an ( )."
+          "ex": "He ( ) forgets his homework."
         },
         {
           "en": "still",
           "ja": "まだ",
-          "ex": "I have a ( )."
+          "ex": "Please speak ( ) in English."
         },
         {
           "en": "yet",
           "ja": "まだ（否定・疑問）",
-          "ex": "I have a ( )."
+          "ex": "She finished her work ( )."
         },
         {
           "en": "again",
           "ja": "再び",
-          "ex": "I have an ( )."
+          "ex": "I ( ) go there with my family."
         },
         {
           "en": "once",
           "ja": "一度",
-          "ex": "I have an ( )."
+          "ex": "He ( ) forgets his homework."
         },
         {
           "en": "twice",
           "ja": "二度",
-          "ex": "I have a ( )."
+          "ex": "Please speak ( ) in English."
         },
         {
           "en": "first",
           "ja": "最初の",
-          "ex": "I have a ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "second",
           "ja": "2番目の",
-          "ex": "I have a ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "third",
           "ja": "3番目の",
-          "ex": "I have a ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "next",
           "ja": "次の",
-          "ex": "I have a ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "last",
           "ja": "最後の／この前の",
-          "ex": "I have a ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "usually",
           "ja": "たいてい",
-          "ex": "This is ( )."
+          "ex": "I ( ) go there with my family."
         },
         {
           "en": "sometimes",
           "ja": "ときどき",
-          "ex": "I have a ( )."
+          "ex": "He ( ) forgets his homework."
         },
         {
           "en": "often",
           "ja": "しばしば",
-          "ex": "I have an ( )."
+          "ex": "Please speak ( ) in English."
         },
         {
           "en": "rarely",
           "ja": "めったに〜ない",
-          "ex": "This is ( )."
+          "ex": "She finished her work ( )."
         },
         {
           "en": "certain",
           "ja": "確かな",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "sure",
           "ja": "確信している",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "subject",
           "ja": "科目",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "math",
           "ja": "数学",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "science",
           "ja": "理科",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "history",
           "ja": "歴史",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "geography",
           "ja": "地理",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "English",
           "ja": "英語",
-          "ex": "I have an ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "Japanese",
           "ja": "国語",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "PE",
           "ja": "体育",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "music",
           "ja": "音楽",
-          "ex": "I have a ( )."
+          "ex": "I listen to ( ) every day."
         },
         {
           "en": "art",
           "ja": "美術",
-          "ex": "I have an ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "club",
           "ja": "部活動",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "team",
           "ja": "チーム",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "member",
           "ja": "メンバー",
-          "ex": "I have a ( )."
+          "ex": "My ( ) is very kind."
         },
         {
           "en": "captain",
           "ja": "キャプテン",
-          "ex": "I have a ( )."
+          "ex": "I met a new ( ) today."
         },
         {
           "en": "rule",
           "ja": "規則",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "test",
           "ja": "テスト",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "exam",
           "ja": "試験",
-          "ex": "I have an ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "score",
           "ja": "点数",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "grade",
           "ja": "成績／学年",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "homework",
           "ja": "宿題",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "project",
           "ja": "課題／プロジェクト",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "report",
           "ja": "レポート／報告",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "note",
           "ja": "メモ／注意",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "message",
           "ja": "メッセージ",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "news",
           "ja": "ニュース",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "story",
           "ja": "物語",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "article",
           "ja": "記事",
-          "ex": "I have an ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "hobby",
           "ja": "趣味",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "interest",
           "ja": "興味",
-          "ex": "I have an ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "favorite",
           "ja": "お気に入りの",
-          "ex": "I have a ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "happen",
           "ja": "起こる",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "hurry",
           "ja": "急ぐ",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "miss",
           "ja": "逃す／欠席する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "forget",
           "ja": "忘れる",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "remember",
           "ja": "思い出す／覚えている",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "understand",
           "ja": "理解する",
-          "ex": "I ( ) every day."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "believe",
           "ja": "信じる",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "think",
           "ja": "考える",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "know",
           "ja": "知っている",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "guess",
           "ja": "推測する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "seem",
           "ja": "〜のように見える",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "feel",
           "ja": "感じる",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "hope",
           "ja": "望む",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "agree",
           "ja": "同意する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "disagree",
           "ja": "反対する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "bring",
           "ja": "持ってくる",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "carry",
           "ja": "運ぶ",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "send",
           "ja": "送る",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "receive",
           "ja": "受け取る",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "borrow",
           "ja": "借りる",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "lend",
           "ja": "貸す",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "show",
           "ja": "見せる",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "introduce",
           "ja": "紹介する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "build",
           "ja": "建てる",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "break",
           "ja": "壊す",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "fix",
           "ja": "直す",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "cut",
           "ja": "切る",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "push",
           "ja": "押す",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "pull",
           "ja": "引く",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "throw",
           "ja": "投げる",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "catch",
           "ja": "捕まえる",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "hit",
           "ja": "打つ",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "kick",
           "ja": "蹴る",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "turn",
           "ja": "曲がる／回す",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "stop",
           "ja": "止まる",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "start",
           "ja": "始める",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "begin",
           "ja": "始める",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "end",
           "ja": "終わる",
-          "ex": "I have an ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "hold",
           "ja": "持つ",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "keep",
           "ja": "保つ／続ける",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "save",
           "ja": "節約する／救う",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "spend",
           "ja": "（時間・お金を）使う",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "cost",
           "ja": "（費用が）かかる",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "price",
           "ja": "値段",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "free",
           "ja": "無料の／自由な",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "cheap",
           "ja": "安い",
-          "ex": "This is ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "expensive",
           "ja": "高い",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "busy",
           "ja": "忙しい",
-          "ex": "This is ( )."
+          "ex": "I'm ( ) after school."
         },
         {
           "en": "quiet",
           "ja": "静かな",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "loud",
           "ja": "うるさい",
-          "ex": "This is ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "safe",
           "ja": "安全な",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "dangerous",
           "ja": "危険な",
-          "ex": "This is ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "healthy",
           "ja": "健康な",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "sick",
           "ja": "病気の",
-          "ex": "I have a ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "strong",
           "ja": "強い",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "weak",
           "ja": "弱い",
-          "ex": "This is ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "tired",
           "ja": "疲れた",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "hungry",
           "ja": "おなかがすいた",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "thirsty",
           "ja": "のどが渇いた",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "sleepy",
           "ja": "眠い",
-          "ex": "This is ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "interesting",
           "ja": "面白い",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "boring",
           "ja": "退屈な",
-          "ex": "This is ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "exciting",
           "ja": "わくわくする",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "careful",
           "ja": "注意深い",
-          "ex": "This is ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "careless",
           "ja": "不注意な",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "polite",
           "ja": "礼儀正しい",
-          "ex": "This is ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "rude",
           "ja": "失礼な",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "honest",
           "ja": "正直な",
-          "ex": "This is ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "kind",
           "ja": "親切な",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "friendly",
           "ja": "友好的な",
-          "ex": "This is ( )."
+          "ex": "He ( ) forgets his homework."
         },
         {
           "en": "wonderful",
           "ja": "すばらしい",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "terrible",
           "ja": "ひどい",
-          "ex": "This is ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "different",
           "ja": "異なる",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "similar",
           "ja": "似ている",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "simple",
           "ja": "簡単な／単純な",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "difficult",
           "ja": "難しい",
-          "ex": "This is ( )."
+          "ex": "This problem is ( )."
         },
         {
           "en": "ready",
           "ja": "準備ができた",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "late",
           "ja": "遅い／遅刻した",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "early",
           "ja": "早い",
-          "ex": "This is ( )."
+          "ex": "Please speak ( ) in English."
         },
         {
           "en": "suddenly",
           "ja": "突然",
-          "ex": "I have a ( )."
+          "ex": "She finished her work ( )."
         },
         {
           "en": "quickly",
           "ja": "すぐに／速く",
-          "ex": "I have a ( )."
+          "ex": "I ( ) go there with my family."
         },
         {
           "en": "slowly",
           "ja": "ゆっくり",
-          "ex": "I have a ( )."
+          "ex": "He ( ) forgets his homework."
         },
         {
           "en": "carefully",
           "ja": "注意深く",
-          "ex": "I have a ( )."
+          "ex": "Please speak ( ) in English."
         },
         {
           "en": "easily",
           "ja": "簡単に",
-          "ex": "I have an ( )."
+          "ex": "She finished her work ( )."
         },
         {
           "en": "really",
           "ja": "本当に",
-          "ex": "I have a ( )."
+          "ex": "I ( ) go there with my family."
         },
         {
           "en": "probably",
           "ja": "おそらく",
-          "ex": "I have a ( )."
+          "ex": "He ( ) forgets his homework."
         },
         {
           "en": "finally",
           "ja": "ついに",
-          "ex": "I have a ( )."
+          "ex": "Please speak ( ) in English."
         },
         {
           "en": "place",
           "ja": "場所",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "area",
           "ja": "地域",
-          "ex": "I have an ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "space",
           "ja": "空間",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "corner",
           "ja": "角",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "center",
           "ja": "中心",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "front",
           "ja": "前",
-          "ex": "I have a ( )."
+          "ex": "The station is ( ) of the park."
         },
         {
           "en": "back",
           "ja": "後ろ",
-          "ex": "I have a ( )."
+          "ex": "The cat is ( ) the table."
         },
         {
           "en": "side",
           "ja": "側",
-          "ex": "I have a ( )."
+          "ex": "Turn ( ) at the next corner."
         },
         {
           "en": "inside",
           "ja": "中",
-          "ex": "I have an ( )."
+          "ex": "Look ( ) and you will see the sign."
         },
         {
           "en": "outside",
           "ja": "外",
-          "ex": "I have an ( )."
+          "ex": "The station is ( ) of the park."
         },
         {
           "en": "top",
           "ja": "上部",
-          "ex": "I have a ( )."
+          "ex": "The cat is ( ) the table."
         },
         {
           "en": "bottom",
           "ja": "底",
-          "ex": "I have a ( )."
+          "ex": "Turn ( ) at the next corner."
         },
         {
           "en": "information",
           "ja": "情報",
-          "ex": "I have an ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "data",
           "ja": "データ",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "website",
           "ja": "ウェブサイト",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "internet",
           "ja": "インターネット",
-          "ex": "I have an ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "email",
           "ja": "メール",
-          "ex": "I have an ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "password",
           "ja": "パスワード",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "account",
           "ja": "アカウント",
-          "ex": "I have an ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "picture",
           "ja": "写真",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "video",
           "ja": "動画",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "shop",
           "ja": "店",
-          "ex": "I have a ( )."
+          "ex": "The ( ) is crowded today."
         },
         {
           "en": "market",
           "ja": "市場",
-          "ex": "I have a ( )."
+          "ex": "I went to the ( ) with my family."
         },
         {
           "en": "restaurant",
           "ja": "レストラン",
-          "ex": "I have a ( )."
+          "ex": "Let's meet at the ( ) after school."
         },
         {
           "en": "menu",
           "ja": "メニュー",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "order",
           "ja": "注文する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "serve",
           "ja": "提供する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "ticket",
           "ja": "切符",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "reservation",
           "ja": "予約",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "weather",
           "ja": "天気",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "temperature",
           "ja": "気温",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "season",
           "ja": "季節",
-          "ex": "I have a ( )."
+          "ex": "I like ( ) because the weather is nice."
         },
         {
           "en": "event",
           "ja": "イベント",
-          "ex": "I have an ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "festival",
           "ja": "祭り",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "holiday",
           "ja": "休日",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "birthday",
           "ja": "誕生日",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "gift",
           "ja": "贈り物",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "language",
           "ja": "言語",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "word",
           "ja": "単語",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "sentence",
           "ja": "文",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "meaning",
           "ja": "意味",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "grammar",
           "ja": "文法",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "dictionary",
           "ja": "辞書",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "conversation",
           "ja": "会話",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "discussion",
           "ja": "話し合い",
-          "ex": "This is ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "opinion",
           "ja": "意見",
-          "ex": "I have an ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "choice",
           "ja": "選択",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "decision",
           "ja": "決定",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "chance",
           "ja": "機会",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "risk",
           "ja": "危険／リスク",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "goal",
           "ja": "目標",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "dream",
           "ja": "夢",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "skill",
           "ja": "技能",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "ability",
           "ja": "能力",
-          "ex": "I have an ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "level",
           "ja": "レベル",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "progress",
           "ja": "進歩",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "habit",
           "ja": "習慣",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "environment",
           "ja": "環境",
-          "ex": "I have an ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "culture",
           "ja": "文化",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "community",
           "ja": "地域社会",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "activity",
           "ja": "活動",
-          "ex": "I have an ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "schedule",
           "ja": "予定",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "calendar",
           "ja": "カレンダー",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "situation",
           "ja": "状況",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "communication",
           "ja": "コミュニケーション",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "relationship",
           "ja": "関係",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "support",
           "ja": "支援する／支える",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "protect",
           "ja": "守る",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "prevent",
           "ja": "防ぐ",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "allow",
           "ja": "許す",
-          "ex": "I have an ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "refuse",
           "ja": "断る",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "accept",
           "ja": "受け入れる",
-          "ex": "I have an ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "offer",
           "ja": "申し出る",
-          "ex": "I have an ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "suggest",
           "ja": "提案する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "advise",
           "ja": "助言する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "invite",
           "ja": "招待する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "welcome",
           "ja": "歓迎する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "describe",
           "ja": "説明する／描写する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "compare",
           "ja": "比べる",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "collect",
           "ja": "集める",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "check",
           "ja": "確認する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "discover",
           "ja": "発見する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "develop",
           "ja": "発展させる／開発する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "create",
           "ja": "創造する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "design",
           "ja": "設計する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "control",
           "ja": "管理する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "increase",
           "ja": "増加する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "reduce",
           "ja": "減らす",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "raise",
           "ja": "上げる／育てる",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "lower",
           "ja": "下げる",
-          "ex": "I have a ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "include",
           "ja": "含む",
-          "ex": "I have an ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "contain",
           "ja": "含む",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "except",
           "ja": "除いて",
-          "ex": "I have an ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "provide",
           "ja": "提供する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "require",
           "ja": "必要とする",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "prefer",
           "ja": "〜の方が好き",
-          "ex": "I have a ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "expect",
           "ja": "期待する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "success",
           "ja": "成功",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "failure",
           "ja": "失敗",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "attention",
           "ja": "注意",
-          "ex": "I have an ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "notice",
           "ja": "気づく",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "mistake",
           "ja": "間違い",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "memory",
           "ja": "記憶",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "mind",
           "ja": "心／考え",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "knowledge",
           "ja": "知識",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "truth",
           "ja": "真実",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "fact",
           "ja": "事実",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         }
       ]
     },
@@ -3019,1502 +3019,1502 @@
         {
           "en": "environment",
           "ja": "環境",
-          "ex": "I have an ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "technology",
           "ja": "技術",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "information",
           "ja": "情報",
-          "ex": "I have an ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "communication",
           "ja": "コミュニケーション",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "education",
           "ja": "教育",
-          "ex": "I have an ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "culture",
           "ja": "文化",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "society",
           "ja": "社会",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "community",
           "ja": "地域社会",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "government",
           "ja": "政府",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "international",
           "ja": "国際的な",
-          "ex": "This is ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "science",
           "ja": "科学",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "research",
           "ja": "研究／調査",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "system",
           "ja": "制度／仕組み",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "industry",
           "ja": "産業",
-          "ex": "I have an ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "economy",
           "ja": "経済",
-          "ex": "I have an ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "policy",
           "ja": "政策",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "law",
           "ja": "法律",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "history",
           "ja": "歴史",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "future",
           "ja": "未来",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "purpose",
           "ja": "目的",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "objective",
           "ja": "目的／目標",
-          "ex": "I have an ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "goal",
           "ja": "目標",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "method",
           "ja": "方法",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "process",
           "ja": "過程",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "result",
           "ja": "結果",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "effect",
           "ja": "効果",
-          "ex": "I have an ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "influence",
           "ja": "影響",
-          "ex": "I have an ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "cause",
           "ja": "原因",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "factor",
           "ja": "要因",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "solution",
           "ja": "解決策",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "problem",
           "ja": "問題",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "issue",
           "ja": "課題",
-          "ex": "I have an ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "challenge",
           "ja": "課題／挑戦",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "opportunity",
           "ja": "機会",
-          "ex": "I have an ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "risk",
           "ja": "危険／リスク",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "safety",
           "ja": "安全",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "security",
           "ja": "安全保障／セキュリティ",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "quality",
           "ja": "品質",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "value",
           "ja": "価値",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "benefit",
           "ja": "利益／利点",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "cost",
           "ja": "費用",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "resource",
           "ja": "資源",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "energy",
           "ja": "エネルギー",
-          "ex": "I have an ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "power",
           "ja": "力／電力",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "nature",
           "ja": "自然",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "pollution",
           "ja": "汚染",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "climate",
           "ja": "気候",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "recycle",
           "ja": "再利用する",
-          "ex": "I ( ) every day."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "protect",
           "ja": "守る",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "damage",
           "ja": "損害／損なう",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "destroy",
           "ja": "破壊する",
-          "ex": "I ( ) every day."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "recover",
           "ja": "回復する",
-          "ex": "I ( ) every day."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "develop",
           "ja": "開発する／発展する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "progress",
           "ja": "進歩",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "advance",
           "ja": "進歩させる／前進する",
-          "ex": "I ( ) every day."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "increase",
           "ja": "増加する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "decrease",
           "ja": "減少する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "reduce",
           "ja": "減らす",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "expand",
           "ja": "拡大する",
-          "ex": "I ( ) every day."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "improve",
           "ja": "改善する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "maintain",
           "ja": "維持する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "manage",
           "ja": "管理する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "control",
           "ja": "制御する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "organize",
           "ja": "組織する",
-          "ex": "I ( ) every day."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "operate",
           "ja": "運用する／操作する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "perform",
           "ja": "実行する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "analyze",
           "ja": "分析する",
-          "ex": "I ( ) every day."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "evaluate",
           "ja": "評価する",
-          "ex": "I ( ) every day."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "measure",
           "ja": "測定する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "estimate",
           "ja": "推定する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "compare",
           "ja": "比較する",
-          "ex": "I ( ) every day."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "consider",
           "ja": "考慮する",
-          "ex": "I ( ) every day."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "examine",
           "ja": "調べる",
-          "ex": "I have an ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "investigate",
           "ja": "調査する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "observe",
           "ja": "観察する",
-          "ex": "I ( ) every day."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "predict",
           "ja": "予測する",
-          "ex": "I ( ) every day."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "conclude",
           "ja": "結論づける",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "discuss",
           "ja": "議論する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "debate",
           "ja": "討論する",
-          "ex": "I ( ) every day."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "argue",
           "ja": "主張する",
-          "ex": "I ( ) every day."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "claim",
           "ja": "主張する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "explain",
           "ja": "説明する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "describe",
           "ja": "描写する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "define",
           "ja": "定義する",
-          "ex": "I ( ) every day."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "suggest",
           "ja": "提案する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "recommend",
           "ja": "勧める",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "advise",
           "ja": "助言する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "provide",
           "ja": "提供する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "offer",
           "ja": "提供する／申し出る",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "support",
           "ja": "支援する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "require",
           "ja": "必要とする",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "depend",
           "ja": "依存する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "affect",
           "ja": "影響する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "prevent",
           "ja": "防ぐ",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "avoid",
           "ja": "避ける",
-          "ex": "I have an ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "solve",
           "ja": "解決する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "achieve",
           "ja": "達成する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "succeed",
           "ja": "成功する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "fail",
           "ja": "失敗する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "opinion",
           "ja": "意見",
-          "ex": "I have an ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "view",
           "ja": "見方",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "attitude",
           "ja": "態度",
-          "ex": "I have an ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "behavior",
           "ja": "行動",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "relationship",
           "ja": "関係",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "difference",
           "ja": "違い",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "similarity",
           "ja": "類似",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "character",
           "ja": "性格／特徴",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "feature",
           "ja": "特徴",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "function",
           "ja": "機能",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "structure",
           "ja": "構造",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "pattern",
           "ja": "パターン",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "trend",
           "ja": "傾向",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "data",
           "ja": "データ",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "statistics",
           "ja": "統計",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "survey",
           "ja": "調査",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "experiment",
           "ja": "実験",
-          "ex": "I have an ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "evidence",
           "ja": "証拠",
-          "ex": "I have an ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "fact",
           "ja": "事実",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "truth",
           "ja": "真実",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "theory",
           "ja": "理論",
-          "ex": "I have a ( )."
+          "ex": "The ( ) of the story made me happy."
         },
         {
           "en": "concept",
           "ja": "概念",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "idea",
           "ja": "考え",
-          "ex": "I have an ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "innovation",
           "ja": "革新",
-          "ex": "I have an ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "invention",
           "ja": "発明",
-          "ex": "I have an ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "discovery",
           "ja": "発見",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "application",
           "ja": "応用／申請",
-          "ex": "I have an ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "software",
           "ja": "ソフトウェア",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "hardware",
           "ja": "ハードウェア",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "network",
           "ja": "ネットワーク",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "database",
           "ja": "データベース",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "algorithm",
           "ja": "アルゴリズム",
-          "ex": "I have an ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "artificial",
           "ja": "人工の",
-          "ex": "I have an ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "intelligence",
           "ja": "知能",
-          "ex": "I have an ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "machine",
           "ja": "機械",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "robot",
           "ja": "ロボット",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "project",
           "ja": "計画／プロジェクト",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "strategy",
           "ja": "戦略",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "management",
           "ja": "経営／管理",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "organization",
           "ja": "組織",
-          "ex": "I have an ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "company",
           "ja": "会社",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "business",
           "ja": "事業／商売",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "market",
           "ja": "市場",
-          "ex": "I have a ( )."
+          "ex": "My father works near the ( )."
         },
         {
           "en": "customer",
           "ja": "顧客",
-          "ex": "I have a ( )."
+          "ex": "That ( ) helped me a lot."
         },
         {
           "en": "service",
           "ja": "サービス",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "product",
           "ja": "製品",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "competition",
           "ja": "競争",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "profit",
           "ja": "利益",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "loss",
           "ja": "損失",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "budget",
           "ja": "予算",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "investment",
           "ja": "投資",
-          "ex": "I have an ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "finance",
           "ja": "金融",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "connection",
           "ja": "接続／つながり",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "knowledge",
           "ja": "知識",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "skill",
           "ja": "技能",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "ability",
           "ja": "能力",
-          "ex": "I have an ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "responsibility",
           "ja": "責任",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "duty",
           "ja": "義務",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "right",
           "ja": "権利",
-          "ex": "I have a ( )."
+          "ex": "Look ( ) and you will see the sign."
         },
         {
           "en": "freedom",
           "ja": "自由",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "justice",
           "ja": "正義",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "equality",
           "ja": "平等",
-          "ex": "I have an ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "population",
           "ja": "人口",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "citizen",
           "ja": "市民",
-          "ex": "I have a ( )."
+          "ex": "That ( ) helped me a lot."
         },
         {
           "en": "regulation",
           "ja": "規制",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "rule",
           "ja": "規則",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "health",
           "ja": "健康",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "medicine",
           "ja": "医療",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "disease",
           "ja": "病気",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "hospital",
           "ja": "病院",
-          "ex": "I have a ( )."
+          "ex": "Let's meet at the ( ) after school."
         },
         {
           "en": "stress",
           "ja": "ストレス",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "mental",
           "ja": "精神の",
-          "ex": "I have a ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "emotion",
           "ja": "感情",
-          "ex": "I have an ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "confidence",
           "ja": "自信",
-          "ex": "I have a ( )."
+          "ex": "I don't know the ( ) yet."
         },
         {
           "en": "motivation",
           "ja": "やる気",
-          "ex": "I have a ( )."
+          "ex": "Please tell me the ( ) clearly."
         },
         {
           "en": "creative",
           "ja": "創造的な",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "efficient",
           "ja": "効率的な",
-          "ex": "This is ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "effective",
           "ja": "効果的な",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "complex",
           "ja": "複雑な",
-          "ex": "This is ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "simple",
           "ja": "単純な",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "general",
           "ja": "一般的な",
-          "ex": "This is ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "specific",
           "ja": "具体的な",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "recent",
           "ja": "最近の",
-          "ex": "I have a ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "current",
           "ja": "現在の",
-          "ex": "I have a ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "former",
           "ja": "以前の",
-          "ex": "I have a ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "individual",
           "ja": "個人",
-          "ex": "I have an ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "public",
           "ja": "公共の",
-          "ex": "I have a ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "private",
           "ja": "私的な",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "global",
           "ja": "世界的な",
-          "ex": "This is ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "local",
           "ja": "地域の",
-          "ex": "I have a ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "especially",
           "ja": "特に",
-          "ex": "I have an ( )."
+          "ex": "She finished her work ( )."
         },
         {
           "en": "therefore",
           "ja": "それゆえ",
-          "ex": "I have a ( )."
+          "ex": "I studied hard, ( ) I passed the test."
         },
         {
           "en": "although",
           "ja": "〜だけれども",
-          "ex": "I have an ( )."
+          "ex": "He was tired; ( ), he kept running."
         },
         {
           "en": "however",
           "ja": "しかしながら",
-          "ex": "I have a ( )."
+          "ex": "I like tea, ( ) I don't like coffee."
         },
         {
           "en": "instead",
           "ja": "その代わりに",
-          "ex": "I have an ( )."
+          "ex": "I stayed home ( ) it was raining."
         },
         {
           "en": "otherwise",
           "ja": "さもないと",
-          "ex": "I have an ( )."
+          "ex": "I studied hard, ( ) I passed the test."
         },
         {
           "en": "moreover",
           "ja": "その上",
-          "ex": "I have a ( )."
+          "ex": "He was tired; ( ), he kept running."
         },
         {
           "en": "furthermore",
           "ja": "さらに",
-          "ex": "I have a ( )."
+          "ex": "I like tea, ( ) I don't like coffee."
         },
         {
           "en": "according",
           "ja": "〜によれば",
-          "ex": "I have an ( )."
+          "ex": "I stayed home ( ) it was raining."
         },
         {
           "en": "certainly",
           "ja": "確かに",
-          "ex": "I have a ( )."
+          "ex": "I ( ) go there with my family."
         },
         {
           "en": "actually",
           "ja": "実際に",
-          "ex": "I have an ( )."
+          "ex": "He ( ) forgets his homework."
         },
         {
           "en": "probably",
           "ja": "おそらく",
-          "ex": "I have a ( )."
+          "ex": "Please speak ( ) in English."
         },
         {
           "en": "immediately",
           "ja": "すぐに",
-          "ex": "I have an ( )."
+          "ex": "She finished her work ( )."
         },
         {
           "en": "eventually",
           "ja": "最終的に",
-          "ex": "I have an ( )."
+          "ex": "I ( ) go there with my family."
         },
         {
           "en": "significant",
           "ja": "重要な",
-          "ex": "This is ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "serious",
           "ja": "深刻な",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "necessary",
           "ja": "必要な",
-          "ex": "This is ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "sufficient",
           "ja": "十分な",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "available",
           "ja": "利用できる",
-          "ex": "I have an ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "various",
           "ja": "さまざまな",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "particular",
           "ja": "特定の",
-          "ex": "I have a ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "eliminate",
           "ja": "取り除く",
-          "ex": "I have an ( )."
+          "ex": "He ( ) to school by bike."
         },
         {
           "en": "resolve",
           "ja": "解決する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "participate",
           "ja": "参加する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "contribute",
           "ja": "貢献する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "volunteer",
           "ja": "ボランティアをする",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "preserve",
           "ja": "保存する／保護する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "inspect",
           "ja": "検査する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "repair",
           "ja": "修理する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "publish",
           "ja": "出版する／公開する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "announce",
           "ja": "発表する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "report",
           "ja": "報告する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "confirm",
           "ja": "確認する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "approve",
           "ja": "承認する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "reject",
           "ja": "拒否する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "permit",
           "ja": "許可する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "ban",
           "ja": "禁止する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "respond",
           "ja": "対応する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "react",
           "ja": "反応する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "represent",
           "ja": "代表する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "replace",
           "ja": "置き換える",
-          "ex": "I have a ( )."
+          "ex": "We ( ) English every day."
         },
         {
           "en": "consume",
           "ja": "消費する",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "produce",
           "ja": "生産する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "transport",
           "ja": "輸送する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "deliver",
           "ja": "配達する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "generate",
           "ja": "生成する／生み出す",
-          "ex": "I ( ) every day."
+          "ex": "She ( ) a letter to her friend."
         },
         {
           "en": "calculate",
           "ja": "計算する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "translate",
           "ja": "翻訳する",
-          "ex": "I ( ) every day."
+          "ex": "I ( ) my homework before dinner."
         },
         {
           "en": "interpret",
           "ja": "解釈する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "alternative",
           "ja": "代替の",
-          "ex": "I have an ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "option",
           "ja": "選択肢",
-          "ex": "I have an ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "priority",
           "ja": "優先順位",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "emergency",
           "ja": "緊急事態",
-          "ex": "I have an ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "disaster",
           "ja": "災害",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "facility",
           "ja": "施設",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "infrastructure",
           "ja": "社会基盤",
-          "ex": "I have an ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "transportation",
           "ja": "交通",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "agriculture",
           "ja": "農業",
-          "ex": "I have an ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "manufacturing",
           "ja": "製造業",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "distribution",
           "ja": "流通",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "supply",
           "ja": "供給",
-          "ex": "I have a ( )."
+          "ex": "She finished her work ( )."
         },
         {
           "en": "demand",
           "ja": "需要",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "employment",
           "ja": "雇用",
-          "ex": "I have an ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "unemployment",
           "ja": "失業",
-          "ex": "I have an ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "income",
           "ja": "収入",
-          "ex": "I have an ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "expense",
           "ja": "支出",
-          "ex": "I have an ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "tax",
           "ja": "税金",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "environmental",
           "ja": "環境の",
-          "ex": "I have an ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "scientific",
           "ja": "科学の",
-          "ex": "I have a ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "cultural",
           "ja": "文化の",
-          "ex": "I have a ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "social",
           "ja": "社会の",
-          "ex": "I have a ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "economic",
           "ja": "経済の",
-          "ex": "I have an ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "political",
           "ja": "政治の",
-          "ex": "I have a ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "psychology",
           "ja": "心理学",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "biology",
           "ja": "生物学",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "chemistry",
           "ja": "化学",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "physics",
           "ja": "物理",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "literature",
           "ja": "文学",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "philosophy",
           "ja": "哲学",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "expression",
           "ja": "表現",
-          "ex": "I have an ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "impression",
           "ja": "印象",
-          "ex": "I have an ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "identity",
           "ja": "個性／身元",
-          "ex": "I have an ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "personality",
           "ja": "人格",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "potential",
           "ja": "潜在能力",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "talent",
           "ja": "才能",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "habit",
           "ja": "習慣",
-          "ex": "I have a ( )."
+          "ex": "That's an interesting ( )."
         },
         {
           "en": "routine",
           "ja": "日課",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "discipline",
           "ja": "規律",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "effort",
           "ja": "努力",
-          "ex": "I have an ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "reward",
           "ja": "報酬",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "punishment",
           "ja": "罰",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "advantage",
           "ja": "利点",
-          "ex": "I have an ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "disadvantage",
           "ja": "欠点",
-          "ex": "I have a ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "impact",
           "ja": "影響／衝撃",
-          "ex": "I have an ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "harm",
           "ja": "害",
-          "ex": "I have a ( )."
+          "ex": "I wrote a short ( ) about my weekend."
         },
         {
           "en": "conflict",
           "ja": "対立",
-          "ex": "I have a ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "cooperate",
           "ja": "協力する",
-          "ex": "I ( ) every day."
+          "ex": "We ( ) a plan for the trip."
         },
         {
           "en": "collaboration",
           "ja": "協力",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "negotiate",
           "ja": "交渉する",
-          "ex": "I ( ) every day."
+          "ex": "They ( ) the problem together."
         },
         {
           "en": "agreement",
           "ja": "合意",
-          "ex": "I have an ( )."
+          "ex": "I have a ( ) in my bag."
         },
         {
           "en": "appointment",
           "ja": "予約／約束",
-          "ex": "I have an ( )."
+          "ex": "This ( ) is important for our class."
         },
         {
           "en": "deadline",
           "ja": "締め切り",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "responsible",
           "ja": "責任がある",
-          "ex": "I have a ( )."
+          "ex": "Please ( ) the door quietly."
         },
         {
           "en": "reliable",
           "ja": "信頼できる",
-          "ex": "I have a ( )."
+          "ex": "I ( ) with my friends after school."
         },
         {
           "en": "flexible",
           "ja": "柔軟な",
-          "ex": "This is ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "accurate",
           "ja": "正確な",
-          "ex": "This is ( )."
+          "ex": "My room is ( ) today."
         },
         {
           "en": "precise",
           "ja": "精密な",
-          "ex": "This is ( )."
+          "ex": "He looks ( ) after practice."
         },
         {
           "en": "productive",
           "ja": "生産的な",
-          "ex": "This is ( )."
+          "ex": "This question is ( ) for me."
         },
         {
           "en": "sustainable",
           "ja": "持続可能な",
-          "ex": "This is ( )."
+          "ex": "That movie was really ( )."
         },
         {
           "en": "stable",
           "ja": "安定した",
-          "ex": "I have a ( )."
+          "ex": "Can you show me your ( )?"
         },
         {
           "en": "unstable",
           "ja": "不安定な",
-          "ex": "This is ( )."
+          "ex": "He looks ( ) after practice."
         }
       ]
     }
