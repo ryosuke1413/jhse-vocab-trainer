@@ -240,3 +240,257 @@ function makeMCQ(word, mode, allWords){
 
   const pool = allWords.filter(w => ((mode === "en_to_ja") ? w.ja : w.en) !== answer);
   const dummies = pickN(pool, 3).map(w => (mode === "en_to_ja") ? w.ja : w.en);
+  const choices = shuffle([answer, ...dummies]);
+
+  return { type: "mcq", prompt, answer, choices, word };
+}
+
+// 入力：意味＋例文( ) を表示（答え自体は表示しない）
+function makeTyping(word){
+  return {
+    type: "type",
+    meaning: word.ja,
+    example: word.ex ?? "I ( ) every day.",
+    answer: word.en,
+    word
+  };
+}
+
+function buildQuiz(words, mode){
+  const typingPick = pickN(words, TYPE_COUNT);
+  const remaining = words.filter(w => !typingPick.includes(w));
+  const mcqPick = pickN(remaining.length ? remaining : words, MCQ_COUNT);
+
+  const qs = [
+    ...mcqPick.map(w => makeMCQ(w, mode, words)),
+    ...typingPick.map(w => makeTyping(w))
+  ];
+  return { idx: 0, questions: shuffle(qs), correct: 0, wrongList: [] };
+}
+
+function markMiss(word){
+  const u = getUser();
+  const key = normalizeEn(word.en);
+  const prev = u.miss[key];
+  u.miss[key] = {
+    en: word.en,
+    ja: word.ja,
+    missCount: (prev?.missCount ?? 0) + 1,
+    lastMissAt: Date.now()
+  };
+}
+
+function unmarkMiss(word){
+  const u = getUser();
+  const key = normalizeEn(word.en);
+  if (u.miss[key]) delete u.miss[key];
+}
+
+function commitAnswer(isCorrect, word, correctAnswerText){
+  const u = getUser();
+  u.totalAns += 1;
+
+  if (isCorrect) {
+    u.totalOk += 1;
+    currentQuiz.correct += 1;
+    unmarkMiss(word);
+    els.feedback.textContent = "正解！";
+  } else {
+    markMiss(word);
+    els.feedback.textContent = `不正解。正解：${correctAnswerText}`;
+    currentQuiz.wrongList.push({ en: word.en, ja: word.ja });
+  }
+
+  saveUsers();
+  updateUI();
+  els.nextBtn.disabled = false;
+}
+
+function renderQuestion(){
+  answeredLock = false;
+  els.checkBtn.disabled = false;
+
+  const qz = currentQuiz;
+  const q = qz.questions[qz.idx];
+
+  els.progress.textContent = `${qz.idx + 1} / ${QUIZ_TOTAL}`;
+  els.feedback.textContent = "";
+  els.nextBtn.disabled = true;
+
+  // reset views
+  els.choices.innerHTML = "";
+  els.typing.classList.add("hidden");
+  els.typing.setAttribute("aria-hidden", "true");
+  els.choices.classList.remove("hidden");
+
+  // fade in
+  els.quiz.classList.remove("fadeOut");
+  els.quiz.classList.add("fadeIn");
+  setTimeout(() => els.quiz.classList.remove("fadeIn"), 240);
+
+  if (q.type === "mcq") {
+    els.qTypePill.textContent = "4択";
+    els.qText.textContent = q.prompt;
+
+    q.choices.forEach(choice => {
+      const btn = document.createElement("button");
+      btn.className = "choice";
+      btn.textContent = choice;
+      btn.onclick = () => onAnswerMCQ(choice, btn);
+      els.choices.appendChild(btn);
+    });
+  } else {
+    els.qTypePill.textContent = "入力";
+    els.qText.textContent = "次の空欄 ( ) に入る英単語を入力";
+
+    els.choices.classList.add("hidden");
+    els.typing.classList.remove("hidden");
+    els.typing.setAttribute("aria-hidden", "false");
+
+    els.typeMeaning.textContent = `意味：${q.meaning}`;
+    els.typeExample.textContent = `例文：${q.example}`;
+
+    els.typeInput.value = "";
+    els.typeInput.focus();
+  }
+}
+
+function onAnswerMCQ(choice, btnEl){
+  if (answeredLock) return;
+  answeredLock = true;
+
+  const q = currentQuiz.questions[currentQuiz.idx];
+  [...els.choices.querySelectorAll(".choice")].forEach(b => b.disabled = true);
+
+  const isCorrect = choice === q.answer;
+  if (isCorrect) {
+    btnEl.classList.add("correct", "pulseOk");
+  } else {
+    btnEl.classList.add("wrong", "pulseNg");
+    [...els.choices.querySelectorAll(".choice")].forEach(b => {
+      if (b.textContent === q.answer) b.classList.add("correct");
+    });
+  }
+
+  commitAnswer(isCorrect, q.word, q.answer);
+
+  // 4択は自動遷移
+  setTimeout(() => els.nextBtn.click(), 380);
+}
+
+function onAnswerTyping(){
+  if (answeredLock) return;            // ★連打防止
+  answeredLock = true;
+  els.checkBtn.disabled = true;
+
+  const q = currentQuiz.questions[currentQuiz.idx];
+  const input = normalizeEn(els.typeInput.value);
+  const ans = normalizeEn(q.answer);
+
+  const isCorrect = input === ans;
+
+  els.typeInput.classList.remove("pulseOk","pulseNg");
+  void els.typeInput.offsetWidth;
+  els.typeInput.classList.add(isCorrect ? "pulseOk" : "pulseNg");
+
+  commitAnswer(isCorrect, q.word, q.answer);
+
+  // ★入力も数百msで自動遷移（テンポUP）
+  setTimeout(() => els.nextBtn.click(), 650);
+}
+
+function finishQuiz(){
+  const wrong = QUIZ_TOTAL - currentQuiz.correct;
+  els.resultText.textContent = `正解 ${currentQuiz.correct} / ${QUIZ_TOTAL}（ミス ${wrong}）`;
+
+  els.missList.innerHTML = "";
+  const uniq = new Map();
+  for (const w of currentQuiz.wrongList) uniq.set(w.en, w);
+
+  if (uniq.size === 0) {
+    const li = document.createElement("li");
+    li.textContent = "ミスはありませんでした。";
+    els.missList.appendChild(li);
+  } else {
+    for (const w of uniq.values()) {
+      const li = document.createElement("li");
+      li.textContent = `${w.en} — ${w.ja}`;
+      els.missList.appendChild(li);
+    }
+  }
+
+  show(els.result);
+}
+
+function startNormalQuiz(){
+  if(!setUserFromInput()) return;
+  const lv = getSelectedLevel();
+  if (!lv || !lv.words || lv.words.length < 12) {
+    alert("単語数が少なすぎます。words.json を確認してください。");
+    return;
+  }
+  currentQuiz = buildQuiz(lv.words, els.mode.value);
+  show(els.quiz);
+  renderQuestion();
+}
+
+function startMissQuiz(){
+  if(!setUserFromInput()) return;
+
+  const u = getUser();
+  const missWords = Object.values(u.miss)
+    .sort((a,b) => (b.missCount - a.missCount) || (b.lastMissAt - a.lastMissAt))
+    .map(x => ({ en: x.en, ja: x.ja, ex: "I ( ) every day." })); // exは words_v2 なら上書きされる
+
+  if (missWords.length === 0) {
+    alert("ミス単語がありません。まず通常テストを解いてください。");
+    return;
+  }
+
+  currentQuiz = buildQuiz(missWords, els.mode.value);
+  show(els.quiz);
+  renderQuestion();
+}
+
+els.startBtn.onclick = startNormalQuiz;
+els.reviewBtn.onclick = startMissQuiz;
+
+els.nextBtn.onclick = () => {
+  els.quiz.classList.add("fadeOut");
+  setTimeout(() => {
+    currentQuiz.idx += 1;
+    if (currentQuiz.idx >= currentQuiz.questions.length) finishQuiz();
+    else renderQuestion();
+  }, 190);
+};
+
+els.quitBtn.onclick = () => {
+  if (confirm("終了してトップに戻りますか？")) show(els.setup);
+};
+
+els.backBtn.onclick = () => show(els.setup);
+els.retryMissBtn.onclick = () => startMissQuiz();
+
+els.checkBtn.onclick = onAnswerTyping;
+els.typeInput?.addEventListener("keydown", (e) => {
+  if (e.key === "Enter") onAnswerTyping();
+});
+
+els.saveUserBtn.onclick = () => {
+  if (setUserFromInput()) alert("保存しました。");
+};
+
+els.resetBtn.onclick = () => {
+  if(!setUserFromInput()) return;
+  if(!confirm(`ユーザ「${currentUser}」の記録をリセットしますか？`)) return;
+  users[currentUser] = { totalAns: 0, totalOk: 0, miss: {} };
+  saveUsers();
+  updateUI();
+  alert("リセットしました。");
+};
+
+(async function init(){
+  await loadData();
+  loadLastUser();
+  show(els.setup);
+})();
